@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(100, 183, 255);
+    background-color: rgb(155, 183, 255);
     margin: 0;
 }
 .navbar {
@@ -51,7 +51,7 @@ body {
     margin-bottom: 10px;
 }
 #but {
-    background-color: rgb(27, 143, 245);
+    background-color: rgb(155, 143, 245);
     color: white;
     display: inline-block;
     height: 25px;
@@ -60,7 +60,7 @@ body {
     border-radius: 3%;
 }
 #sb {
-    background-color: rgb(27, 143, 245);
+    background-color: rgb(155, 143, 245);
     color: white;
     display: inline-block;
     border-color: transparent;
